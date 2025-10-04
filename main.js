@@ -1,3 +1,4 @@
+//pseudo code
 //Enable your user to enter a city + country and return the temperature in Fahrenheit
 //find an api key https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/USA?unitGroup=us&key=BMMVJTJ8RLLBXVQB7AQQESTSU&contentType=json
 //create event listener to get info from user and run our function
